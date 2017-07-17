@@ -1,0 +1,54 @@
+#container{
+	display: flex;
+}
+#body{
+
+}
+#head{
+	width: 0 auto;
+	height: 225px;
+}
+#form{
+	background-color: red;
+}
+#main{
+/*	background-color: #44654d;*/
+}
+#foot{
+	background-color: #0c45a7;
+}
+/*MODAL CSS*/
+.modal{
+	width: 500px;
+	height: 500px;
+}
+#modalH1{
+	float: left;
+}
+#closeModal{
+	float: right;
+}
+#modal{
+	display: none;
+	margin: auto;
+	background-color: #b7b49e
+}
+.centered{
+	margin: auto;
+}
+
+.footerh1{
+	padding-top: 10px;
+}
+.head{
+	background-image: url("images/newheader.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.socialMediaImage{
+	height:100px;
+	width: 100px;
+}
+.modalH1class{
+	float: left;
+}
